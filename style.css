@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+}
+.pirmas {
+  background-color: blue;
+}
+.antras {
+  background-color: green;
+}
+.trecias {
+  background-color: yellow;
+}
+.row2 {
+  background-color: blue;
+}
